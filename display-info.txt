@@ -1,0 +1,3 @@
+DISPLAY INFO
+  Konsisten update informasi setiap ada update-an
+  Input data
